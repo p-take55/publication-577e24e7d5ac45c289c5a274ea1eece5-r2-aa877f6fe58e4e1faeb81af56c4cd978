@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schema/v1.json",
+  "name": "meeting-research-briefs",
+  "version": "1.0.0",
+  "description": "架空データを使う公開検証用Pluginです。会議要約と調査メモを作成する2つのSkillと、要点・根拠・次のアクションの資料書式を同梱しています。"
+}
