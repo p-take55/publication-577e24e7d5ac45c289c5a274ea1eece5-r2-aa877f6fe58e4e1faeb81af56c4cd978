@@ -1,15 +1,15 @@
 ---
 name: research-brief
-description: 営業チーム向けに調査を簡潔な提案資料にまとめる。
+description: 調査結果を、読み手が判断に使える短い提案資料にまとめる。
 metadata:
-  aachat.description.en: Produce a concise research brief for a sales team.
-  aachat.description.ja: 営業チーム向けに調査を簡潔な資料にまとめる。
+  aachat.description.en: Produce a concise research brief that helps the reader make a decision.
+  aachat.description.ja: 調査結果を、読み手が判断に使える短い提案資料にまとめる。
 ---
 
 # 調査を提案資料にまとめる
 
-1. 調べるテーマ、読者、判断したいことを確認する。
+1. 調べるテーマ、読者、判断したいことを確認する。予算や期限などの前提条件は依頼者に確かめ、推測で置かない。
 2. 一次情報を優先し、出典と確認日を記録する。
-3. 依頼者が示した目的、予算、制約に沿って選択肢を比較する。条件が不明な場合は確認し、仮の条件を事実として扱わない。
-4. 要点、根拠、次のアクションを このSkillに同梱した [資料の書き方](references/report-format.md) に合わせて書く。
+3. 確認した前提条件に沿って、読者が比較できる形で選択肢を並べる。
+4. 要点、根拠、次のアクションを [report-format.md](report-format.md) に合わせて書く。
 5. 不確かな記述に断定がないか確認する。
