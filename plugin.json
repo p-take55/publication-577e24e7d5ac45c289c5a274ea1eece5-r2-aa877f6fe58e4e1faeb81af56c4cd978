@@ -1,6 +1,6 @@
 {
-  "name": "research-and-meeting-kit",
+  "name": "meeting-summary",
   "version": "1.0.0",
-  "description": "Turn research into concise decision briefs and summarize meetings into decisions, open issues, and next actions.",
-  "skills": "./skills"
+  "description": "会議の記録から決定事項・未解決の論点・次のアクションを整理するSkill。記録にない担当や期日は推測で埋めない。",
+  "skills": "./skills/"
 }
